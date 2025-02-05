@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## 📄 Resume
 
-[View resume](https://hotsuyuki.github.io/hotsuyuki/Hotsuyuki_Kawanishi_resume.pdf)
+[Resume link](https://hotsuyuki.github.io/hotsuyuki/Hotsuyuki_Kawanishi_resume.pdf)
