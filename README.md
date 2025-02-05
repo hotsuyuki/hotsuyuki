@@ -1,3 +1,5 @@
+# hotsuyuki
+
 <!--
 **hotsuyuki/hotsuyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 
 ## 📄 Resume
 
-[View resume](./Hotsuyuki_Kawanishi_resume.pdf)
+[View resume](https://hotsuyuki.github.io/hotsuyuki/Hotsuyuki_Kawanishi_resume.pdf)
