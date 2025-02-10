@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Resume
 
-[Resume link](https://hotsuyuki.github.io/hotsuyuki/Hotsuyuki_Kawanishi_resume.pdf)
+[View resume (PDF)](https://hotsuyuki.github.io/hotsuyuki/Hotsuyuki_Kawanishi_resume.pdf)
 
 ## Projects
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 | ___________________________________ |  |
 | :---: | :--- |
 | <img src="./image/IpynbRobotics.png" style="width: 300px"/> | [Robotics Algorithms in Jupyter Notebook](https://github.com/hotsuyuki/IpynbRobotics) <br><br> Keywords: *Python, Robotics, SLAM, Localization, Path Planning* <br><br> Python codes for robotics algorithms, e.g. Simultaneous Localization & Mapping (SLAM), localization, and path planning. |
-| <img src="./image/Graph-Based-SLAM.png" style="width: 300px"/> | [Graph-Based SLAM Paper with C++ and Python](https://github.com/hotsuyuki/Graph-Based-SLAM) <br><br> Keywords: *C++, Python, Robotics, Graph-based SLAM* <br><br> Detailed mathematical explanation of Graph-Based SLAM with sample code in both C++ and Python for a comprehensive guide. |
+| <img src="./image/Graph-Based-SLAM.png" style="width: 300px"/> | [Graph-Based SLAM Paper with C++ and Python Code](https://github.com/hotsuyuki/Graph-Based-SLAM) <br><br> Keywords: *C++, Python, Robotics, Graph-based SLAM* <br><br> Detailed mathematical explanation of Graph-Based SLAM with sample code in both C++ and Python for a comprehensive guide. |
 
 ### 🥽 AR, MR, VR, XR
 
