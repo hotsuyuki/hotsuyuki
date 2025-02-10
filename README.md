@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📄 Resume
+## Resume
 
 [Resume link](https://hotsuyuki.github.io/hotsuyuki/Hotsuyuki_Kawanishi_resume.pdf)
 
-## 📚 Projects
+## Projects
 
-### AI, Deep Learning, Machine Learning 
+### 🧠 AI, Deep Learning, Machine Learning 
 
 | ___________________________________ |  |
 | :---: | :--- |
@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 | <img src="./image/tensorward.png" style="width: 300px"/> | [C++ Deep Learning Framework from Scratch](https://github.com/hotsuyuki/tensorward) <br><br> Keywords: *C++, Bazel, Object-Oriented Programming, Unit Testing* <br><br> PyTorch-like deep learning framework architected and implemented from scratch in C++, e.g. layers, optimizers, and autograd. |
 | <img src="./image/YOLOv5_PyTorch_cpp.png" style="width: 300px"/> | [YOLOv5 Object Detection Model in PyTorch C++](https://github.com/hotsuyuki/YOLOv5_PyTorch_cpp) <br><br> Keywords: *C++, PyTorch, Convolutional Neural Network* <br><br> YOLOv5 implementation in PyTorch C++ (LibTorch) instead of PyTorch Python for efficient integration in C++ applications. |
 
-### Robotics, Self-Driving Car
+### 🤖 Robotics, Self-Driving Car
 
 | ___________________________________ |  |
 | :---: | :--- |
 | <img src="./image/IpynbRobotics.png" style="width: 300px"/> | [Robotics Algorithms in Jupyter Notebook](https://github.com/hotsuyuki/IpynbRobotics) <br><br> Keywords: *Python, Robotics, SLAM, Localization, Path Planning* <br><br> Python codes for robotics algorithms, e.g. Simultaneous Localization & Mapping (SLAM), localization, and path planning. |
 | <img src="./image/Graph-Based-SLAM.png" style="width: 300px"/> | [Graph-Based SLAM Paper with C++ and Python](https://github.com/hotsuyuki/Graph-Based-SLAM) <br><br> Keywords: *C++, Python, Robotics, Graph-based SLAM* <br><br> Detailed mathematical explanation of Graph-Based SLAM with sample code in both C++ and Python for a comprehensive guide. |
 
-### AR, MR, VR, XR
+### 🥽 AR, MR, VR, XR
 
 | ___________________________________ |  |
 | :---: | :--- |
