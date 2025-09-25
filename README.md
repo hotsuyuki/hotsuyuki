@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Resume
+## About
 
-[View resume (PDF)](https://hotsuyuki.github.io/hotsuyuki/Hotsuyuki_Kawanishi_resume.pdf)
+* Resume: [View resume (PDF)](https://hotsuyuki.github.io/hotsuyuki/Hotsuyuki_Kawanishi_resume.pdf)
+* LinkedIn: [linkedin.com/in/hotsuyuki](https://www.linkedin.com/in/hotsuyuki/)
+* Most proficient languages:
+  * ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+  * ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 
 ## Projects
 
